@@ -8,8 +8,6 @@ import java.util.List;
  * The Main class holds the main() method which start program execution.
  */
 class Main {
-    
-    
     /**
      * The methods below are executed here.
      * @param args command-line parameters
